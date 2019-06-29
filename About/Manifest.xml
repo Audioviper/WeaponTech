@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <Manifest>
     <identifier>WeaponTech</identifier>
@@ -10,13 +10,13 @@
     <loadBefore>
     </loadBefore>
     <loadAfter>
-		<li>Dual [XND] Turret Extensions<li>
-		<li>Combat Training<li>
-		<li>Dual Wield<li>
+		<li>1496122245</li>
+		<li>1542761308</li>
+		<li>1628211313</li>
     </loadAfter>
     <suggests>
     </suggests>
     <showCrossPromotions>true</showCrossPromotions>
-    <manifestUri></manifestUri>
-    <downloadUri></downloadUri>
+    <manifestUri>https://raw.githubusercontent.com/Audioviper/WeaponTech/master/About/Manifest.xml</manifestUri>
+    <downloadUri>https://github.com/Audioviper/WeaponTech/releases/tag/1.8.0.3</downloadUri>
 </Manifest>
