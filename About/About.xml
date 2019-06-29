@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+	<name>Weapon Tech</name>
+	<author>Janson</author>
+	<supportedVersions>
+		<li>1.0</li>
+	</supportedVersions>
+	<url></url>
+	<description>Adds greater weapon variety and more accurate researching and balancing.</description>
+</ModMetaData>
