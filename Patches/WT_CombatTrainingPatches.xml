@@ -18,6 +18,9 @@
 							<techLevel>Industrial</techLevel>
 							<smeltable>true</smeltable>
 							<tickerType>Never</tickerType>
+							<thingCategories>
+							  <li>RangedTrainingWeapons</li>
+							</thingCategories>
 							<graphicData>
 								<texPath>Things/Item/Equipment/WeaponRanged/2A1Sporterised</texPath>
 								<graphicClass>Graphic_Single</graphicClass>
@@ -39,6 +42,9 @@
 									<Crafting>3</Crafting>
 								</skillRequirements>
 							</recipeMaker>
+							<weaponTags>
+							  <li>TrainingWeapons</li>
+							</weaponTags>
 							<statBases>
 								<WorkToMake>38000</WorkToMake>
 								<Mass>2.8</Mass>
