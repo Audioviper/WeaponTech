@@ -243,3 +243,8 @@ Update 8c - 1.8.0.3
 
 Added skillRequirements for complex mechanical weapons.
 Fixed the Combat Training patch, was using an outdated draft version.
+
+
+Update 8d - 1.8.0.4
+
+Fixed senario editor incompatibility.
