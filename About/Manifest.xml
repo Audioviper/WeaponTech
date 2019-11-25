@@ -2,7 +2,7 @@
 
 <Manifest>
     <identifier>WeaponTech</identifier>
-    <version>1.8.0.4</version>
+    <version>1.8.0.6</version>
     <dependencies>
     </dependencies>
     <incompatibleWith>
@@ -18,5 +18,5 @@
     </suggests>
     <showCrossPromotions>true</showCrossPromotions>
     <manifestUri>https://raw.githubusercontent.com/Audioviper/WeaponTech/master/About/Manifest.xml</manifestUri>
-    <downloadUri>https://github.com/Audioviper/WeaponTech/releases/tag/1.8.0.3</downloadUri>
+    <downloadUri>https://github.com/Audioviper/WeaponTech/releases/tag/1.8.0.6</downloadUri>
 </Manifest>

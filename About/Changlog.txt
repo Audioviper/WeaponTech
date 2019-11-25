@@ -247,4 +247,14 @@ Fixed the Combat Training patch, was using an outdated draft version.
 
 Update 8d - 1.8.0.4
 
-Fixed senario editor incompatibility.
+Fixed scenario editor incompatibility.
+
+
+Update 8e - 1.8.0.5
+
+Added specific market values for each weapon to better reflect capability, as opposed to the work and materials required to make.
+
+
+Update 8f - 1.8.0.6
+
+Changed Muzzle-loaders tech level to Medieval.
