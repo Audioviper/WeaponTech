@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 
   <ThingDef Name="BaseGunError" Abstract="True">
@@ -56,6 +56,7 @@
   </ThingDef>
 
   <ThingDef Name="BaseMakeableGunG" ParentName="BaseGunWithQuality" Abstract="True">
+    <techLevel>Medieval</techLevel>
     <recipeMaker>
       <workSpeedStat>SmithingSpeed</workSpeedStat>
       <workSkill>Crafting</workSkill>
